@@ -1,0 +1,244 @@
+2025-03-26 10:57:21,910 - INFO - Current time: 1742966841.9102464
+2025-03-26 10:57:21,913 - INFO - Token expiration time: 1742969401.1976929
+2025-03-26 10:57:21,916 - INFO - Token expiration time: 1742969401.1976929
+2025-03-26 10:57:21,917 - INFO - Profile Emaxx: Minimizing window...
+2025-03-26 10:57:21,920 - INFO - Profile Emaxx: Window minimized. Pausing for 29.58 seconds...
+2025-03-26 10:57:51,501 - INFO - Profile Emaxx: Resuming after minimize...
+2025-03-26 10:57:51,504 - INFO - performing random action
+2025-03-26 10:57:51,507 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 10:57:51,509 - DEBUG - Scrolling page 4 times.
+2025-03-26 10:57:51,511 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:57:51,516 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:57:53,240 - DEBUG - Page scrolled.
+2025-03-26 10:57:55,241 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:57:55,246 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:57:56,360 - DEBUG - Page scrolled.
+2025-03-26 10:57:58,362 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:57:58,367 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:00,233 - DEBUG - Page scrolled.
+2025-03-26 10:58:02,235 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:58:02,240 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:03,435 - DEBUG - Page scrolled.
+2025-03-26 10:58:05,438 - DEBUG - Random scrolls complete.
+2025-03-26 10:58:05,440 - DEBUG - Scrolling page 4 times.
+2025-03-26 10:58:05,441 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:58:05,446 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:06,514 - DEBUG - Page scrolled.
+2025-03-26 10:58:08,516 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:58:08,521 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:10,079 - DEBUG - Page scrolled.
+2025-03-26 10:58:12,081 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:58:12,086 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:13,361 - DEBUG - Page scrolled.
+2025-03-26 10:58:15,363 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 10:58:15,368 - WARNING - Scrolling failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:16,719 - DEBUG - Page scrolled.
+2025-03-26 10:58:18,721 - DEBUG - Random scrolls complete.
+2025-03-26 10:58:18,726 - ERROR - Error finding random thread link in subforum: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 565, in find_random_thread_link_from_subforum
+    driver.get(subforum_url)
+    ~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A4410C45+27221]
+	(No symbol) [0x00007FF6A4376F30]
+	(No symbol) [0x00007FF6A41F590C]
+	(No symbol) [0x00007FF6A423F95F]
+	(No symbol) [0x00007FF6A4277B62]
+	(No symbol) [0x00007FF6A42724BE]
+	(No symbol) [0x00007FF6A4271569]
+	(No symbol) [0x00007FF6A41C55E5]
+	GetHandleVerifier [0x00007FF6A4776E2D+3591229]
+	GetHandleVerifier [0x00007FF6A478E45A+3687018]
+	GetHandleVerifier [0x00007FF6A4783323+3641651]
+	GetHandleVerifier [0x00007FF6A44DB6BA+857290]
+	(No symbol) [0x00007FF6A438230F]
+	(No symbol) [0x00007FF6A41C41FF]
+	GetHandleVerifier [0x00007FF6A4804A48+4171864]
+	BaseThreadInitThunk [0x00007FFA52B87374+20]
+	RtlUserThreadStart [0x00007FFA535DCC91+33]
+
+2025-03-26 10:58:18,741 - INFO - Profile Emaxx: Minimizing window...
+2025-03-26 10:58:18,743 - INFO - Profile Emaxx: Window minimized. Pausing for 28.88 seconds...
+2025-03-26 10:58:47,621 - INFO - Profile Emaxx: Resuming after minimize...
+2025-03-26 10:58:47,624 - INFO - performing random action
+2025-03-26 10:58:47,626 - WARNING - Skipping thread processing due to no thread link being found in subforum.

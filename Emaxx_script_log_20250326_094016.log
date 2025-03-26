@@ -1,0 +1,138 @@
+2025-03-26 09:40:16,301 - INFO - Current time: 1742962216.3014011
+2025-03-26 09:40:16,302 - INFO - Token expiration time: 1742969401.1976929
+2025-03-26 09:40:16,302 - INFO - Token expiration time: 1742969401.1976929
+2025-03-26 09:40:16,303 - INFO - Profile Emaxx: Restoring window...
+2025-03-26 09:40:18,318 - INFO - performing random action
+2025-03-26 09:40:18,321 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:40:18,324 - DEBUG - Scrolling page 5 times.
+2025-03-26 09:40:18,325 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:19,500 - DEBUG - Page scrolled.
+2025-03-26 09:40:21,504 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:23,396 - DEBUG - Page scrolled.
+2025-03-26 09:40:25,398 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:26,614 - DEBUG - Page scrolled.
+2025-03-26 09:40:28,615 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:29,942 - DEBUG - Page scrolled.
+2025-03-26 09:40:31,944 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:33,712 - DEBUG - Page scrolled.
+2025-03-26 09:40:35,714 - DEBUG - Random scrolls complete.
+2025-03-26 09:40:35,716 - DEBUG - Scrolling page 7 times.
+2025-03-26 09:40:35,718 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:37,004 - DEBUG - Page scrolled.
+2025-03-26 09:40:39,007 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:41,012 - DEBUG - Page scrolled.
+2025-03-26 09:40:43,015 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:44,574 - DEBUG - Page scrolled.
+2025-03-26 09:40:46,576 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:47,847 - DEBUG - Page scrolled.
+2025-03-26 09:40:49,850 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:51,265 - DEBUG - Page scrolled.
+2025-03-26 09:40:53,267 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:55,019 - DEBUG - Page scrolled.
+2025-03-26 09:40:57,021 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:58,460 - DEBUG - Page scrolled.
+2025-03-26 09:41:00,463 - DEBUG - Random scrolls complete.
+2025-03-26 09:41:06,862 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-26 09:41:10,866 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/best-way-to-increase-telegram-traffic.1694502/
+2025-03-26 09:41:10,866 - INFO - Profile Emaxx: Minimizing window...
+2025-03-26 09:41:10,868 - INFO - Profile Emaxx: Window minimized. Pausing for 27.82 seconds...
+2025-03-26 09:41:38,692 - INFO - Profile Emaxx: Resuming after minimize...
+2025-03-26 09:41:38,693 - INFO - performing random action
+2025-03-26 09:41:46,404 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/best-way-to-increase-telegram-traffic.1694502/
+2025-03-26 09:41:46,407 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/best-way-to-increase-telegram-traffic.1694502/' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:41:46,465 - INFO - Extracted thread title: best way to increase telegram traffic
+2025-03-26 09:41:46,466 - DEBUG - Scrolling page 2 times.
+2025-03-26 09:41:46,467 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:41:47,649 - DEBUG - Page scrolled.
+2025-03-26 09:41:49,650 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:41:50,927 - DEBUG - Page scrolled.
+2025-03-26 09:41:52,929 - DEBUG - Random scrolls complete.
+2025-03-26 09:41:55,821 - DEBUG - Scrolling page 1 times.
+2025-03-26 09:41:55,822 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:41:57,485 - DEBUG - Page scrolled.
+2025-03-26 09:42:00,487 - DEBUG - Random scrolls complete.
+2025-03-26 09:42:05,732 - WARNING - Error finding like buttons: Message: 
+Traceback (most recent call last):
+  File "F:\Forum-Automation-Tool\blackhatworld_functions.py", line 132, in find_like_buttons
+    like_buttons = WebDriverWait(driver, 5).until(
+        EC.presence_of_all_elements_located((By.XPATH, "//bdi[contains(text(), 'Like')]"))
+    )
+  File "C:\Users\DELL\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\support\wait.py", line 146, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-03-26 09:42:05,750 - INFO - No like buttons found, skipping like_random_posts function...
+2025-03-26 09:42:08,332 - INFO - Profile Emaxx: Restoring window...
+2025-03-26 09:42:10,340 - INFO - performing random action
+2025-03-26 09:42:10,342 - DEBUG - Scrolling page 7 times.
+2025-03-26 09:42:10,343 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:11,962 - DEBUG - Page scrolled.
+2025-03-26 09:42:14,964 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:16,481 - DEBUG - Page scrolled.
+2025-03-26 09:42:19,483 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:21,045 - DEBUG - Page scrolled.
+2025-03-26 09:42:24,047 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:25,134 - DEBUG - Page scrolled.
+2025-03-26 09:42:28,137 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:30,063 - DEBUG - Page scrolled.
+2025-03-26 09:42:33,064 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:34,420 - DEBUG - Page scrolled.
+2025-03-26 09:42:37,421 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:42:39,113 - DEBUG - Page scrolled.
+2025-03-26 09:42:42,115 - DEBUG - Random scrolls complete.
+2025-03-26 09:42:44,822 - DEBUG - Total comments in the thread: 0
+2025-03-26 09:43:15,764 - INFO - Post content extracted and saved to Thread-Details/Thread Content\best way to increase telegram traffic.txt
+2025-03-26 09:43:18,092 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:43:18,192 - DEBUG - Extracted main post content: Hi guys. I need to increase the traffic to my telegram private channel. What are your suggestions?
+I already created some redirects on some keywords but how to make them index successfully in the global search?
+
+Any suggestion is highly appreciated!
+2025-03-26 09:43:23,736 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:43:23,739 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:43:26,447 - INFO - Profile Emaxx: Minimizing window...
+2025-03-26 09:43:26,455 - INFO - Profile Emaxx: Window minimized. Pausing for 29.31 seconds...
+2025-03-26 09:43:55,769 - INFO - Profile Emaxx: Resuming after minimize...
+2025-03-26 09:43:55,770 - INFO - performing random action
+2025-03-26 09:43:55,771 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:43:55,772 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:44:01,006 - DEBUG - Element not found, scrolling page (attempt 1/5).
+2025-03-26 09:44:01,008 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:02,363 - DEBUG - Page scrolled.
+2025-03-26 09:44:07,552 - DEBUG - Element not found, scrolling page (attempt 2/5).
+2025-03-26 09:44:07,553 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:08,731 - DEBUG - Page scrolled.
+2025-03-26 09:44:13,986 - DEBUG - Element not found, scrolling page (attempt 3/5).
+2025-03-26 09:44:13,988 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:15,782 - DEBUG - Page scrolled.
+2025-03-26 09:44:21,019 - DEBUG - Element not found, scrolling page (attempt 4/5).
+2025-03-26 09:44:21,020 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:22,447 - DEBUG - Page scrolled.
+2025-03-26 09:44:27,700 - DEBUG - Element not found, scrolling page (attempt 5/5).
+2025-03-26 09:44:27,701 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:29,706 - DEBUG - Page scrolled.
+2025-03-26 09:44:29,708 - WARNING - Element not found after 5 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:44:29,745 - ERROR - if comment closed then you should close the browser
+2025-03-26 09:44:29,746 - DEBUG - Searching for text with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-26 09:44:29,746 - DEBUG - Attempting to find element with locator: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-26 09:44:34,918 - DEBUG - Element not found, scrolling page (attempt 1/5).
+2025-03-26 09:44:34,919 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:36,686 - DEBUG - Page scrolled.
+2025-03-26 09:44:41,794 - DEBUG - Element not found, scrolling page (attempt 2/5).
+2025-03-26 09:44:41,794 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:43,658 - DEBUG - Page scrolled.
+2025-03-26 09:44:48,894 - DEBUG - Element not found, scrolling page (attempt 3/5).
+2025-03-26 09:44:48,895 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:50,584 - DEBUG - Page scrolled.
+2025-03-26 09:44:55,804 - DEBUG - Element not found, scrolling page (attempt 4/5).
+2025-03-26 09:44:55,805 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:44:57,570 - DEBUG - Page scrolled.
+2025-03-26 09:45:02,756 - DEBUG - Element not found, scrolling page (attempt 5/5).
+2025-03-26 09:45:02,757 - DEBUG - Scrolling page by 400 pixels.
+2025-03-26 09:45:04,511 - DEBUG - Page scrolled.
+2025-03-26 09:45:04,512 - WARNING - Element not found after 5 scrolls: ('xpath', '//div//dl[@class="blockStatus"]//dd')
+2025-03-26 09:45:04,513 - INFO - Comment posted successfully.
+2025-03-26 09:45:04,514 - INFO - Task Completed!!
+2025-03-26 09:45:16,006 - INFO - Navigated back to the homepage.
+2025-03-26 09:45:18,047 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:45:18,077 - INFO - Garbage collection completed.
+2025-03-26 09:45:18,078 - INFO - Waiting for 3000 seconds before next execution.

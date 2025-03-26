@@ -1,0 +1,106 @@
+2025-03-26 09:50:52,158 - INFO - Current time: 1742962852.1584659
+2025-03-26 09:50:52,160 - INFO - Token expiration time: 1742970044.3740065
+2025-03-26 09:50:52,161 - INFO - Token expiration time: 1742970044.3740065
+2025-03-26 09:50:52,162 - INFO - performing random action
+2025-03-26 09:50:52,163 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:50:52,163 - DEBUG - Scrolling page 6 times.
+2025-03-26 09:50:52,164 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:17,335 - DEBUG - Page scrolled.
+2025-03-26 09:51:19,336 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:20,517 - DEBUG - Page scrolled.
+2025-03-26 09:51:22,518 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:23,860 - DEBUG - Page scrolled.
+2025-03-26 09:51:25,862 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:27,782 - DEBUG - Page scrolled.
+2025-03-26 09:51:29,783 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:31,535 - DEBUG - Page scrolled.
+2025-03-26 09:51:33,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:34,846 - DEBUG - Page scrolled.
+2025-03-26 09:51:36,848 - DEBUG - Random scrolls complete.
+2025-03-26 09:51:36,850 - DEBUG - Scrolling page 5 times.
+2025-03-26 09:51:36,852 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:38,699 - DEBUG - Page scrolled.
+2025-03-26 09:51:40,701 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:42,610 - DEBUG - Page scrolled.
+2025-03-26 09:51:44,612 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:45,743 - DEBUG - Page scrolled.
+2025-03-26 09:51:47,745 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:49,644 - DEBUG - Page scrolled.
+2025-03-26 09:51:51,646 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:53,302 - DEBUG - Page scrolled.
+2025-03-26 09:51:55,304 - DEBUG - Random scrolls complete.
+2025-03-26 09:52:01,844 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/x-formerly-twitter.210/
+2025-03-26 09:52:05,785 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/stake-sponsored-posts-accounts.1651990/unread
+2025-03-26 09:52:05,786 - INFO - performing random action
+2025-03-26 09:52:17,019 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/stake-sponsored-posts-accounts.1651990/unread
+2025-03-26 09:52:17,023 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/stake-sponsored-posts-accounts.1651990/unread' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:52:17,053 - INFO - Extracted thread title: Stake Sponsored postsAccounts
+2025-03-26 09:52:17,054 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:52:17,055 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:18,093 - DEBUG - Page scrolled.
+2025-03-26 09:52:20,094 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:21,640 - DEBUG - Page scrolled.
+2025-03-26 09:52:23,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:25,426 - DEBUG - Page scrolled.
+2025-03-26 09:52:27,428 - DEBUG - Random scrolls complete.
+2025-03-26 09:52:30,376 - DEBUG - Scrolling page 1 times.
+2025-03-26 09:52:30,377 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:31,638 - DEBUG - Page scrolled.
+2025-03-26 09:52:34,639 - DEBUG - Random scrolls complete.
+2025-03-26 09:52:34,657 - DEBUG - Found 6 like buttons.
+2025-03-26 09:52:37,658 - INFO - Attempting to like 2 posts. There are 6 available.
+2025-03-26 09:52:38,633 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:52:38,670 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:52:38,671 - DEBUG - Liked post number 1 of 2.
+2025-03-26 09:52:43,984 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:52:44,003 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:52:44,005 - DEBUG - Liked post number 2 of 2.
+2025-03-26 09:52:48,683 - INFO - Liked 2 posts successfully.
+2025-03-26 09:52:48,686 - INFO - Liked 2 posts successfully.
+2025-03-26 09:52:51,283 - INFO - performing random action
+2025-03-26 09:52:51,286 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:52:51,287 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:53,127 - DEBUG - Page scrolled.
+2025-03-26 09:52:56,129 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:57,463 - DEBUG - Page scrolled.
+2025-03-26 09:53:00,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:53:01,875 - DEBUG - Page scrolled.
+2025-03-26 09:53:04,878 - DEBUG - Random scrolls complete.
+2025-03-26 09:53:07,220 - DEBUG - Total comments in the thread: 6
+2025-03-26 09:53:49,196 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Stake Sponsored postsAccounts.txt
+2025-03-26 09:53:52,162 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:53:52,209 - DEBUG - Extracted main post content: I've been seeing so many accounts posting with Stake.com ad watermark on their videos, big known viral content niche accounts and random medium sized accounts.
+
+
+Has anyone here by any chance been contacted by them (or know) and willing to share how much are they offering, and who were they contacted? did you reach to them or the other way around?
+
+I just find it interesting cuz it seems like there's a wave of Gambling sites promoting on twitter this way.
+2025-03-26 09:53:55,516 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:53:55,518 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:53:58,293 - INFO - Profile DataPhreak: Opening default URL: https://www.google.com
+2025-03-26 09:54:01,947 - INFO - Profile DataPhreak: Pausing for 36.51 seconds...
+2025-03-26 09:54:38,456 - INFO - Profile DataPhreak: Resuming...
+2025-03-26 09:54:38,477 - INFO - Profile DataPhreak: Switched back to original tab.
+2025-03-26 09:54:38,478 - INFO - performing random action
+2025-03-26 09:54:38,479 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:54:38,480 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:54:38,504 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:54:38,548 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:54:38,557 - DEBUG - Text box scrolled into view
+2025-03-26 09:54:39,338 - DEBUG - Initializing actionchains
+2025-03-26 09:54:39,384 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2808}, size: {'height': 21, 'width': 68}
+2025-03-26 09:54:39,384 - DEBUG - Target click coordinates: (1265, 2818)
+2025-03-26 09:54:48,701 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-26 09:54:48,705 - DEBUG - Moving mouse to text box element.
+2025-03-26 09:54:48,707 - DEBUG - Clicking on the text box.
+2025-03-26 09:54:48,710 - DEBUG - Sending keys with content: Wonder if they are finding it effective, or just throwing money at the wall to see what sticks? I'd be curious to know their ROI on that kinda spend.
+
+2025-03-26 09:54:54,265 - DEBUG - Clicking on post reply button.
+2025-03-26 09:54:55,455 - DEBUG - Performed Actionchains
+2025-03-26 09:54:55,456 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-26 09:54:59,458 - INFO - Comment posted successfully.
+2025-03-26 09:54:59,459 - INFO - Task Completed!!
+2025-03-26 09:55:02,520 - INFO - Navigated back to the homepage.
+2025-03-26 09:55:05,394 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:55:05,423 - INFO - Garbage collection completed.
+2025-03-26 09:55:05,424 - INFO - Waiting for 3000 seconds before next execution.

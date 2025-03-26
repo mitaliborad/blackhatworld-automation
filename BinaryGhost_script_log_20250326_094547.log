@@ -1,0 +1,134 @@
+2025-03-26 09:45:47,877 - INFO - Current time: 1742962547.8779604
+2025-03-26 09:45:47,878 - INFO - Token expiration time: 1742969737.6135097
+2025-03-26 09:45:47,879 - INFO - Token expiration time: 1742969737.6135097
+2025-03-26 09:45:47,880 - INFO - Profile BinaryGhost: Restoring window...
+2025-03-26 09:45:49,890 - INFO - performing random action
+2025-03-26 09:45:49,891 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:45:49,892 - DEBUG - Scrolling page 4 times.
+2025-03-26 09:45:49,892 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:45:51,383 - DEBUG - Page scrolled.
+2025-03-26 09:45:53,386 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:45:54,514 - DEBUG - Page scrolled.
+2025-03-26 09:45:56,518 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:45:57,546 - DEBUG - Page scrolled.
+2025-03-26 09:45:59,547 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:01,374 - DEBUG - Page scrolled.
+2025-03-26 09:46:03,376 - DEBUG - Random scrolls complete.
+2025-03-26 09:46:03,378 - DEBUG - Scrolling page 7 times.
+2025-03-26 09:46:03,380 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:04,977 - DEBUG - Page scrolled.
+2025-03-26 09:46:06,979 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:08,098 - DEBUG - Page scrolled.
+2025-03-26 09:46:10,100 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:11,714 - DEBUG - Page scrolled.
+2025-03-26 09:46:13,715 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:15,397 - DEBUG - Page scrolled.
+2025-03-26 09:46:17,399 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:18,462 - DEBUG - Page scrolled.
+2025-03-26 09:46:20,465 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:21,889 - DEBUG - Page scrolled.
+2025-03-26 09:46:23,892 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:46:25,780 - DEBUG - Page scrolled.
+2025-03-26 09:46:27,783 - DEBUG - Random scrolls complete.
+2025-03-26 09:46:45,613 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/ai-artificial-intelligence-in-digital-marketing.252/
+2025-03-26 09:46:49,418 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/mediavine-is-banning-ai-websites.1697800/unread
+2025-03-26 09:46:49,418 - INFO - performing random action
+2025-03-26 09:47:04,505 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/mediavine-is-banning-ai-websites.1697800/unread
+2025-03-26 09:47:04,509 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/mediavine-is-banning-ai-websites.1697800/unread' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:47:04,537 - INFO - Extracted thread title: Mediavine is banning AI websites
+2025-03-26 09:47:04,538 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:47:04,538 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:47:05,589 - DEBUG - Page scrolled.
+2025-03-26 09:47:07,591 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:47:09,502 - DEBUG - Page scrolled.
+2025-03-26 09:47:11,503 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:47:12,981 - DEBUG - Page scrolled.
+2025-03-26 09:47:14,983 - DEBUG - Random scrolls complete.
+2025-03-26 09:47:17,012 - DEBUG - Scrolling page 2 times.
+2025-03-26 09:47:17,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:47:18,754 - DEBUG - Page scrolled.
+2025-03-26 09:47:21,759 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:47:23,216 - DEBUG - Page scrolled.
+2025-03-26 09:47:26,217 - DEBUG - Random scrolls complete.
+2025-03-26 09:47:26,256 - DEBUG - Found 20 like buttons.
+2025-03-26 09:47:29,258 - INFO - Attempting to like 4 posts. There are 20 available.
+2025-03-26 09:47:29,893 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:47:29,922 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:47:29,924 - DEBUG - Liked post number 1 of 4.
+2025-03-26 09:47:34,782 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:47:34,801 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:47:34,802 - DEBUG - Liked post number 2 of 4.
+2025-03-26 09:47:40,131 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:47:40,152 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:47:40,154 - DEBUG - Liked post number 3 of 4.
+2025-03-26 09:47:45,885 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:47:45,907 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:47:45,908 - DEBUG - Liked post number 4 of 4.
+2025-03-26 09:47:50,009 - INFO - Liked 4 posts successfully.
+2025-03-26 09:47:50,010 - INFO - Liked 4 posts successfully.
+2025-03-26 09:47:52,546 - INFO - Profile BinaryGhost: Pausing for 32.41 seconds...
+2025-03-26 09:48:24,959 - INFO - Profile BinaryGhost: Resuming...
+2025-03-26 09:48:24,960 - INFO - performing random action
+2025-03-26 09:48:24,961 - DEBUG - Scrolling page 7 times.
+2025-03-26 09:48:24,962 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:26,098 - DEBUG - Page scrolled.
+2025-03-26 09:48:29,100 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:30,171 - DEBUG - Page scrolled.
+2025-03-26 09:48:33,175 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:34,602 - DEBUG - Page scrolled.
+2025-03-26 09:48:37,604 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:39,262 - DEBUG - Page scrolled.
+2025-03-26 09:48:42,263 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:43,615 - DEBUG - Page scrolled.
+2025-03-26 09:48:46,618 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:48,623 - DEBUG - Page scrolled.
+2025-03-26 09:48:51,624 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:53,474 - DEBUG - Page scrolled.
+2025-03-26 09:48:56,475 - DEBUG - Random scrolls complete.
+2025-03-26 09:48:59,215 - DEBUG - Total comments in the thread: 20
+2025-03-26 09:50:03,452 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Mediavine is banning AI websites.txt
+2025-03-26 09:50:05,841 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:50:05,871 - DEBUG - Extracted main post content: Hi Everyone,
+
+Since last week, Journey by Mediavine have banned 500+ websites using AI content / AI image and listicles websites.
+
+They even have made a form available for people to report AI websites directly :
+
+
+
+
+
+Mediavine also want these websites to be blacklisted everywhere.
+
+The mail sent by Mediavine : (I didn't received it )
+
+
+
+Publishers were banned without notice. Just a 2 lines red message on their dashboard telling them that they can't use mediavine anymore.
+
+Good luck everyone
+2025-03-26 09:50:09,841 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:50:09,844 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:50:11,895 - INFO - performing random action
+2025-03-26 09:50:11,897 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:11,899 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:11,938 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:11,978 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:11,986 - DEBUG - Text box scrolled into view
+2025-03-26 09:50:12,868 - DEBUG - Initializing actionchains
+2025-03-26 09:50:12,887 - DEBUG - Post reply Element location: {'x': 1231, 'y': 13052}, size: {'height': 21, 'width': 68}
+2025-03-26 09:50:12,888 - DEBUG - Target click coordinates: (1265, 13062)
+2025-03-26 09:50:40,165 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-26 09:50:40,167 - DEBUG - Moving mouse to text box element.
+2025-03-26 09:50:40,170 - DEBUG - Clicking on the text box.
+2025-03-26 09:50:40,174 - DEBUG - Sending keys with content: Wow, that's harsh. So, are they actually able to detect AI content with that kind of accuracy, or are they just swinging the ban hammer based on suspicion?
+
+2025-03-26 09:50:45,536 - DEBUG - Clicking on post reply button.
+2025-03-26 09:50:46,901 - DEBUG - Performed Actionchains
+2025-03-26 09:50:46,902 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-26 09:50:50,905 - INFO - Comment posted successfully.
+2025-03-26 09:50:50,908 - INFO - Task Completed!!
+2025-03-26 09:50:55,537 - INFO - Navigated back to the homepage.
+2025-03-26 09:50:57,880 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:50:57,928 - INFO - Garbage collection completed.
+2025-03-26 09:50:57,929 - INFO - Waiting for 3000 seconds before next execution.
