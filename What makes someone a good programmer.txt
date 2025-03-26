@@ -1,0 +1,63 @@
+--- Main Post Title ---
+What makes someone a good programmer?
+
+Total comments in the thread: 0
+
+Topic User: Kuumeivo
+Topic: In your opinion, what makes a person a "good" programmer?
+Is it the desire to always learn? Is it the quality of the code and simplifying it?
+Does the years of experience reflect the true skills of someone?
+
+The world of programming is one of constant learning - it is the same as painting - or art as a whole,
+I've been an artist for years, and I never stop learning new techniques or styles.
+
+When I jumped into web development (front-end) I thought it was going to be a straightforward path
+yet I find myself engulfed by the amount of things to learn that programming has to offer to you,
+of course, I did not only dive into it for fun - but for my future - I don't have any money to pay for a university
+and in the country where I live, working a minimum wage job won't get you far, not even for cheap education.
+
+Working a 9-5 is not really common, even the big companies usually expect you to work 10 to 12 hours a day
+for a pay that is not worth it in my opinion. A truly unfair world we all live in
+
+At the start of 2024 a friend of mine has told me about web development, that I should give it a try, I always
+thought it was going to be all about maths - I always sucked at maths! - yet in my case, I haven't come across any of it!
+
+I'm into constant learning. Currently creating my first serious project for a portfolio (a simple social-media site with API)
+when I feel ready, I'll start applying for remote jobs, so far, I find that programming is the best I can do for my future right now,
+I'm thinking of trying back-end as well and start playing around with frameworks.
+
+I think what makes someone a good programmer is the desire to learn, it is pretty similar to art. After that, everything comes
+flowing down like a river; someone who writes clean, efficient, and maintainable code that can easily be understood by
+another person.
+
+I think the years weight their value, yet, just as in art, many bear the weight of the years on their backs
+but did not spend their time refining their skills. Everything is reflected in your code, or your paintings,
+that tells a lot about whoever wrote the code or painted on the canvas, at least, that's my sort of "dramatic"
+way of viewing it
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: iams0l
+Topic: I love your perspective on programming being like art! It's so true that both fields require a continuous desire to learn and grow. Your journey into web development sounds really exciting, especially with that social media project you're working on! It’s cool that you’ve found an area that feels like the best fit for your future, especially when traditional paths are so challenging.
+
+I totally agree that a good programmer isn’t just someone with years of experience, but someone who writes clean, efficient code and remains open to learning new techniques—just like refining a painting style. The fact that you’re planning to explore back-end development and frameworks shows that you have that curiosity and willingness to expand your skills, which is such a key trait. Keep at it, and best of luck with your portfolio!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: vaccup
+Topic: I think it's a mix of efficiency and clean coding
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

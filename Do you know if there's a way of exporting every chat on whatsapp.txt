@@ -1,0 +1,45 @@
+--- Main Post Title ---
+Do you know if there's a way of exporting every chat on whatsapp?
+
+Total comments in the thread: 1
+
+Topic User: scrotusmaximus
+Topic: Hey BHW fam,
+
+
+I've been trying to figure out the most efficient way to export ALL my WhatsApp chats at once into ZIP files. I know how to do individual chats, but I have hundreds of conversations I need to archive for a project.
+
+
+What I know so far:
+
+For exporting single chats into ZIP:
+
+
+Open the individual chat
+Tap the contact/group name at the top
+Scroll down and select "Export chat"
+Choose "Include media" if needed
+Select an export method (email, drive, etc.)
+This creates a ZIP file with the chat transcript and media (if selected)
+
+But doing this hundreds of times manually would be incredibly tedious.
+
+
+What I'm looking for:
+
+Any hidden WhatsApp features that allow bulk export
+Third-party tools that can do this safely
+Potential API methods (I've looked into WhatsApp Business API but not sure if it works for my needs)
+Scripts or automation methods that could help
+
+I'm comfortable with technical solutions and willing to try different approaches. Has anyone here successfully exported their entire WhatsApp history into organized ZIP files? Any insights would be greatly appreciated!
+
+
+Thanks in advance!
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+

@@ -1,0 +1,137 @@
+2025-03-26 09:47:06,939 - INFO - Current time: 1742962626.939457
+2025-03-26 09:47:06,939 - INFO - Token expiration time: 1742969814.625142
+2025-03-26 09:47:06,940 - INFO - Token expiration time: 1742969814.625142
+2025-03-26 09:47:06,940 - INFO - performing random action
+2025-03-26 09:47:06,941 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:47:06,941 - DEBUG - Scrolling page 5 times.
+2025-03-26 09:47:06,942 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:38,165 - DEBUG - Page scrolled.
+2025-03-26 09:48:40,167 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:41,723 - DEBUG - Page scrolled.
+2025-03-26 09:48:43,726 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:45,313 - DEBUG - Page scrolled.
+2025-03-26 09:48:47,314 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:48,626 - DEBUG - Page scrolled.
+2025-03-26 09:48:50,627 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:52,392 - DEBUG - Page scrolled.
+2025-03-26 09:48:54,394 - DEBUG - Random scrolls complete.
+2025-03-26 09:48:54,396 - DEBUG - Scrolling page 6 times.
+2025-03-26 09:48:54,398 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:55,443 - DEBUG - Page scrolled.
+2025-03-26 09:48:57,445 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:58,887 - DEBUG - Page scrolled.
+2025-03-26 09:49:00,889 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:02,329 - DEBUG - Page scrolled.
+2025-03-26 09:49:04,332 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:05,730 - DEBUG - Page scrolled.
+2025-03-26 09:49:07,733 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:09,203 - DEBUG - Page scrolled.
+2025-03-26 09:49:11,206 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:12,323 - DEBUG - Page scrolled.
+2025-03-26 09:49:14,324 - DEBUG - Random scrolls complete.
+2025-03-26 09:49:50,747 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-programming-chat.128/
+2025-03-26 09:49:54,099 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/made-a-spotify-bot-farm.1623533/unread
+2025-03-26 09:49:54,100 - INFO - Profile NullBytee: Opening random website: https://www.canva.com/en_in/
+2025-03-26 09:49:56,830 - INFO - Profile NullBytee: Pausing for 46.26 seconds...
+2025-03-26 09:50:43,088 - INFO - Profile NullBytee: Resuming...
+2025-03-26 09:50:43,101 - INFO - Profile NullBytee: Switched back to original tab.
+2025-03-26 09:50:43,103 - INFO - performing random action
+2025-03-26 09:51:11,354 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/made-a-spotify-bot-farm.1623533/unread
+2025-03-26 09:51:11,358 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/made-a-spotify-bot-farm.1623533/unread' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:51:11,407 - INFO - Extracted thread title: Made a Spotify Bot Farm
+2025-03-26 09:51:11,408 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:51:11,408 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:12,535 - DEBUG - Page scrolled.
+2025-03-26 09:51:14,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:15,564 - DEBUG - Page scrolled.
+2025-03-26 09:51:17,566 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:19,455 - DEBUG - Page scrolled.
+2025-03-26 09:51:21,456 - DEBUG - Random scrolls complete.
+2025-03-26 09:51:24,237 - DEBUG - Scrolling page 1 times.
+2025-03-26 09:51:24,239 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:25,975 - DEBUG - Page scrolled.
+2025-03-26 09:51:28,977 - DEBUG - Random scrolls complete.
+2025-03-26 09:51:29,017 - DEBUG - Found 20 like buttons.
+2025-03-26 09:51:32,019 - INFO - Attempting to like 3 posts. There are 20 available.
+2025-03-26 09:51:32,889 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:51:32,901 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:51:32,902 - DEBUG - Liked post number 1 of 3.
+2025-03-26 09:51:38,543 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:51:38,552 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:51:38,552 - DEBUG - Liked post number 2 of 3.
+2025-03-26 09:51:43,618 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:51:43,629 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:51:43,630 - DEBUG - Liked post number 3 of 3.
+2025-03-26 09:51:48,291 - INFO - Liked 3 posts successfully.
+2025-03-26 09:51:48,293 - INFO - Liked 3 posts successfully.
+2025-03-26 09:51:50,499 - INFO - performing random action
+2025-03-26 09:51:50,500 - DEBUG - Scrolling page 6 times.
+2025-03-26 09:51:50,500 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:52,192 - DEBUG - Page scrolled.
+2025-03-26 09:51:55,195 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:51:56,369 - DEBUG - Page scrolled.
+2025-03-26 09:51:59,371 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:01,156 - DEBUG - Page scrolled.
+2025-03-26 09:52:04,159 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:05,411 - DEBUG - Page scrolled.
+2025-03-26 09:52:08,413 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:09,497 - DEBUG - Page scrolled.
+2025-03-26 09:52:12,499 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:52:13,565 - DEBUG - Page scrolled.
+2025-03-26 09:52:16,568 - DEBUG - Random scrolls complete.
+2025-03-26 09:52:19,553 - DEBUG - Total comments in the thread: 20
+2025-03-26 09:54:25,299 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Made a Spotify Bot Farm.txt
+2025-03-26 09:54:27,412 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:54:27,472 - DEBUG - Extracted main post content: I have been the last months developing a Spotify bot farm.
+I used python + selenium
+The bot is not just playing a song or playlist in a dumb way, I created an interface that has most of the operations that you can do in Spotify like create account, search artist, song, playlist, album... create playlists, change their names, add songs to a playlist, remove them, add songs and artists to favourites, pause the audio and restart it...
+
+Every action is done in a way that resembles human behaviour, for example the search function writes char by char with a human like cadence and stops when the desired result appears on the Top Result.
+It also uses one proxy for each account to have a different IP.
+
+I also created a huge battery of unitests and integration tests so I can easily know when Spotify changes something and where to fix it.
+
+I created 1 bs artist with TuneCore and I released an album, I am testing the first bot and it seems to be working fine.
+
+The big challenge is how to generate profit over the costs of setting up everything.
+Taking in account that the proxy service is around 1.6€ per month and that the distro for one artist is 23€/ year add then the electrical cost of running the 2 or 3 hours each day there is not much margin to operate.
+I calculate that my bot needs to be giving around 40 streams per day to my artist to generate just enough to cover the costs.
+One account listening to the same artist 40+ songs a day sounds suspicious to me.
+
+Do you know how to overcome this issue?
+
+For now I want to try:
+
+- Go for the 40+ streams a day and see what happens, still alternate it with listening to other artists, change between listening playlists, albums, songs, put my songs on playlists mixed with other songs and overplay them.
+- Try more than one account on the same proxy to make cost cheaper and see if it triggers a ban or not.
+- Change the business model, instead of giving the views to my artists find artists who want to team up and go 50/50, that way I don´t have to worry about the cost of the distros and I can give views to different artists so my account is not suspicious.
+- Buy proxies from the best paying countries so I maximize payments and need less views.
+Attachments
+SPOTIFARM.png
+2025-03-26 09:54:31,097 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:54:31,100 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:54:33,269 - INFO - Profile NullBytee: Pausing for 39.90 seconds...
+2025-03-26 09:55:13,168 - INFO - Profile NullBytee: Resuming...
+2025-03-26 09:55:13,169 - INFO - performing random action
+2025-03-26 09:55:13,170 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:55:13,170 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:55:13,184 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:55:13,230 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:55:13,236 - DEBUG - Text box scrolled into view
+2025-03-26 09:55:14,114 - DEBUG - Initializing actionchains
+2025-03-26 09:55:14,129 - DEBUG - Post reply Element location: {'x': 1231, 'y': 8671}, size: {'height': 21, 'width': 68}
+2025-03-26 09:55:14,130 - DEBUG - Target click coordinates: (1265, 8681)
+2025-03-26 09:55:34,162 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-26 09:55:34,164 - DEBUG - Moving mouse to text box element.
+2025-03-26 09:55:34,164 - DEBUG - Clicking on the text box.
+2025-03-26 09:55:34,165 - DEBUG - Sending keys with content: Interesting project! Have you considered focusing on playlist promotion instead of direct streams to your artist? Might be a more sustainable, less risky approach.
+
+2025-03-26 09:55:39,922 - DEBUG - Clicking on post reply button.
+2025-03-26 09:55:51,058 - DEBUG - Performed Actionchains
+2025-03-26 09:55:51,058 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-26 09:55:55,059 - INFO - Comment posted successfully.
+2025-03-26 09:55:55,060 - INFO - Task Completed!!
+2025-03-26 09:56:19,170 - INFO - Navigated back to the homepage.
+2025-03-26 09:56:21,329 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:56:21,375 - INFO - Garbage collection completed.
+2025-03-26 09:56:21,376 - INFO - Waiting for 3000 seconds before next execution.

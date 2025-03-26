@@ -1,0 +1,1 @@
+Forget the built-in features; they're a dead end for bulk stuff. Check out some phone backup tools – many of them let you extract WhatsApp data in bulk, and you can then script the zipping.

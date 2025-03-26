@@ -1,0 +1,317 @@
+--- Main Post Title ---
+Made a Spotify Bot Farm
+
+Total comments in the thread: 20
+
+Topic User: HappyMonster
+Topic: I have been the last months developing a Spotify bot farm.
+I used python + selenium
+The bot is not just playing a song or playlist in a dumb way, I created an interface that has most of the operations that you can do in Spotify like create account, search artist, song, playlist, album... create playlists, change their names, add songs to a playlist, remove them, add songs and artists to favourites, pause the audio and restart it...
+
+Every action is done in a way that resembles human behaviour, for example the search function writes char by char with a human like cadence and stops when the desired result appears on the Top Result.
+It also uses one proxy for each account to have a different IP.
+
+I also created a huge battery of unitests and integration tests so I can easily know when Spotify changes something and where to fix it.
+
+I created 1 bs artist with TuneCore and I released an album, I am testing the first bot and it seems to be working fine.
+
+The big challenge is how to generate profit over the costs of setting up everything.
+Taking in account that the proxy service is around 1.6€ per month and that the distro for one artist is 23€/ year add then the electrical cost of running the 2 or 3 hours each day there is not much margin to operate.
+I calculate that my bot needs to be giving around 40 streams per day to my artist to generate just enough to cover the costs.
+One account listening to the same artist 40+ songs a day sounds suspicious to me.
+
+Do you know how to overcome this issue?
+
+For now I want to try:
+
+- Go for the 40+ streams a day and see what happens, still alternate it with listening to other artists, change between listening playlists, albums, songs, put my songs on playlists mixed with other songs and overplay them.
+- Try more than one account on the same proxy to make cost cheaper and see if it triggers a ban or not.
+- Change the business model, instead of giving the views to my artists find artists who want to team up and go 50/50, that way I don´t have to worry about the cost of the distros and I can give views to different artists so my account is not suspicious.
+- Buy proxies from the best paying countries so I maximize payments and need less views.
+Attachments
+SPOTIFARM.png
+Liked by: You
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: Updates:
+Today, after a couple of days giving views to my artist I created Spotify for artists and I checked out if they got registered.
+They are.
+
+Next step is to continue giving views to my artist and see if it goes fine.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: Updates:
+I have been testing with just one account.
+
+Last days I was able to give around 100 views per day to my artist.
+However, the account got partially blocked, you can navigate with no issues but the play button is deactivated so the bot can not play any songs.
+Interestingly, I had a manual personal account where I had lists created of some of my artists and I was replaying them manually every day since months before having the bot working.
+It got blocked the same way as my bot did from browser, but it seems to work fine from the app.
+
+I can take the next conclusions from this experience:
+
+- The bot was not blocked because of the behaviour as a human account can be blocked too just for replaying things over an over, so the reasons for the blocks are the number of views per day given to a set of artists.
+- The reason could be including some bs artists in lists overplayed by multiple accounts because my manual account was doing fine until the bot started working, the bot is on a different IP so maybe Spotify is ok if just one account overplays some songs but gets angry if 2 or more accounts overplay one song.
+
+Questions raised:
+What is the limit per day that an account can stream of the same artist without being blocked?
+Now that I got a block, is my IP blacklisted? Could I create other accounts from the same IP and just keep on going?
+Next steps:
+Create another account from the same IP and see when it gets blocked.
+Buy a new proxy and put another bot to work in parallel with it´s own account, this time keeping a lower number of views per day.
+Liked by: You, conexur
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: VictorHugo
+Topic: Following this. My sibling is a musician and I've always wanted to do something for them.
+Liked by: HappyMonster
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: HappyMonster said:
+Updates:
+I have been testing with just one account.
+
+Last days I was able to give around 100 views per day to my artist.
+However, the account got partially blocked, you can navigate with no issues but the play button is deactivated so the bot can not play any songs.
+Interestingly, I had a manual personal account where I had lists created of some of my artists and I was replaying them manually every day since months before having the bot working.
+It got blocked the same way as my bot did from browser, but it seems to work fine from the app.
+
+I can take the next conclusions from this experience:
+
+- The bot was not blocked because of the behaviour as a human account can be blocked too just for replaying things over an over, so the reasons for the blocks are the number of views per day given to a set of artists.
+- The reason could be including some bs artists in lists overplayed by multiple accounts because my manual account was doing fine until the bot started working, the bot is on a different IP so maybe Spotify is ok if just one account overplays some songs but gets angry if 2 or more accounts overplay one song.
+
+Questions raised:
+What is the limit per day that an account can stream of the same artist without being blocked?
+Now that I got a block, is my IP blacklisted? Could I create other accounts from the same IP and just keep on going?
+Next steps:
+Create another account from the same IP and see when it gets blocked.
+Buy a new proxy and put another bot to work in parallel with it´s own account, this time keeping a lower number of views per day.
+Click to expand...
+Few notes on this.
+I was able to fix the issue on my personal account by doing this:
+Logged out, when login in, my password was not working (I guess a Spotify trick to require human interaction), I did the restore password, link sent to my mail, I approved and changed the password.
+Now I can play music again from the account.
+The account ran by the bot is also fixed, I did nothing, just closed the bot process and started again (which logs out and in), and just when the account logged in again (no password change required this time) everything works fine.
+
+
+Hypothesis:
+1 Maybe there was some type of error overall in Spotify as this happened just for a couple of mins, exactly at the same time, and also my personal account has been doing this for months, why would account A get blocked after months of this and account B after few days?
+2 If this were intentional blocks, maybe Spotify is just suspicious and this is to trigger manual interactions to verify that there is someone behind the account. This wouldn´t be terrible but a little bit annoying because when scaling this to 100+ accounts it would require some heavy work of human maintenance.
+
+Steps to follow:
+I am not going to do anything about this for now as I don´t have enough information, I will just execute one instance of the bot again today and I will keep on coding the managing of multiple accounts hooked to different IPs
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: moonrivered
+Topic: Are the proxys from residential IPs?
+
+that might be a factor in getting banned
+Liked by: HappyMonster
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: Infinitillionaire
+Topic: They don't even care about human behavior or the proxy if they already detected that you are automating their page. I have been working on a similar system to yours for more then a year and failed due to that. The browser that you are using to automate leaks a shit ton of data. It can leak CDN, selenium, installed fonts, CPU, GPU, monitor size, canvas, OS, time-zone, languages, and WebGL which is technically impossible to spoof. Even when using an anti-detect browser as soon as you connect it to an automation API like Selenium or puppterr it instantly gets detected. The only solution that I found for this would be to make a fully customized build of chromium and also build a private automation API on top of that if you want to have more earnings than costs. That would also be technically impossible without a team or a big budget to get it started. If you manage to find a way to make it undetectable I have a private method that can be used to generate a ton of profits from Spotify and we can work together on this.
+Liked by: conexur, HappyMonster, salimb
+Number of likes: 3
+-----
+
+Replies:
+
+
+Topic User: salimb
+Topic: Hello @MA19112001 & @HappyMonster im working on a spo/tify farm too, tryed to automate physical android phones using Appium, for the moment i can automatically open spotify and login, now im building the queue system to be able to send instructions to multiple phones, but i dont know if it's detectable or not, can you please share your experiences with that ?
+Liked by: HappyMonster
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: Hi, I didn´t update yet because there has been few advances.
+Finally those 2 accounts were banned, both the manual one and the one used by the bot.
+On top of that the login endpoint of Spotify got banned on both IPs.
+I bought a different proxy and I have been few days "training the IP" by automating it to listen to different artist but not mine.
+After this I am planning on set few accounts on different IPs and give views to my artists.
+One account giving 30/day another 60, another 80, see if they all got banned or only some so I can find the limits.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: moonrivered said:
+Are the proxys from residential IPs?
+
+that might be a factor in getting banned
+They are residential.
+The proxy does not look like the issue for two reasons:
+1 The account using no proxy got also banned.
+2 In the past I used blacklisted proxies and Spotify does not even allow you to create the account, any IP detected as proxy will result in an account that gets immediately blocked.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: MA19112001 said:
+They don't even care about human behavior or the proxy if they already detected that you are automating their page. I have been working on a similar system to yours for more then a year and failed due to that. The browser that you are using to automate leaks a shit ton of data. It can leak CDN, selenium, installed fonts, CPU, GPU, monitor size, canvas, OS, time-zone, languages, and WebGL which is technically impossible to spoof. Even when using an anti-detect browser as soon as you connect it to an automation API like Selenium or puppterr it instantly gets detected. The only solution that I found for this would be to make a fully customized build of chromium and also build a private automation API on top of that if you want to have more earnings than costs. That would also be technically impossible without a team or a big budget to get it started. If you manage to find a way to make it undetectable I have a private method that can be used to generate a ton of profits from Spotify and we can work together on this.
+Click to expand...
+That may be true but I am sceptical because of one reason:
+The bot and the bot account were not banned for a while, it seems like only reaching a certain amount of streams caused it. Then also the manual account (real account, no selenium used, no proxies), got banned the same way also after pushing too much the number of views per day.
+
+I will investigate on all those things that you mention that can be leaked anyway.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hellowellow
+Topic: lemme tell you bro, i recently got my account hacked, and they use those to sell streams mainly. They dont get to worry about blockes or suspicios activities, because you already have done the warming for them. Anyway, have you looked into using rquests for the streams? You would do wayy bigger numbers if you find a way for it.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: needappleid
+Topic: Can you dm me your Tg ? I can massively help you with this. I'll also pay you a lot if we can help each other
+Liked by: HappyMonster
+Number of likes: 1
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: salimb said:
+Hello @MA19112001 & @HappyMonster im working on a spo/tify farm too, tryed to automate physical android phones using Appium, for the moment i can automatically open spotify and login, now im building the queue system to be able to send instructions to multiple phones, but i dont know if it's detectable or not, can you please share your experiences with that ?
+I am going to be posting all my experience and conclusions here.
+I also have the system now and I have implemented a queue message receiver to execute sequences of orders coming from an external program.
+My next step was going to be a program that creates accounts with certain personalities and takes decisions about what to listen, search, save (but always giving views to the desire artists).
+But before going for that, I need to make sure that I can successfully run just few accounts (programming their instructions every day manually). And that I don´t get banned and also can get the profit margins higher than the costs.
+If I ever reach that point, I guess our queue message senders would be exchangeable as long as we follow the same protocol.
+So let´s keep in contact.
+
+Looking at your situation, I guess the first questions are:
+Is Spotify detecting your browser automated by Appium?
+This goes the same way for me with selenium as you can read what the guy on the previous comment said.
+
+What are your stream limits from a phone?
+For what I did now, my hypothesis is that I got blocked because of giving too many streams to the same artist during several days.
+There may be a different limit for phones.
+
+Anyway, if you write me a dm we can exchange more details of both of our experiences and make trials easier.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: hellowellow said:
+lemme tell you bro, i recently got my account hacked, and they use those to sell streams mainly. They dont get to worry about blockes or suspicios activities, because you already have done the warming for them. Anyway, have you looked into using rquests for the streams? You would do wayy bigger numbers if you find a way for it.
+I haven´t consider making requests but for now I have no clue how Spotify interaction with the browser works and for sure they will have some interesting security methods to not make that easier.
+I can tell you that at least from selenium at the beginning of my bot project I tried with accessing the url of the track directly and this got banned fast.
+I guess if you emulate the url calls of accessing every part of the web, the searcher, the play button, etc and you use the right http methods you could get something equivalent to the selenium bot, but isn´t that easy to detect?
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyMonster
+Topic: needappleid said:
+Can you dm me your Tg ? I can massively help you with this. I'll also pay you a lot if we can help each other
+Sent
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: Onie Abbott
+Topic: I'm also using python and selenium at the moment but the progress is a bit slower
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: yuricolngluTR
+Topic: i dont advice to work with spotify
+its very hard now
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: hellowellow
+Topic: HappyMonster said:
+I haven´t consider making requests but for now I have no clue how Spotify interaction with the browser works and for sure they will have some interesting security methods to not make that easier.
+I can tell you that at least from selenium at the beginning of my bot project I tried with accessing the url of the track directly and this got banned fast.
+I guess if you emulate the url calls of accessing every part of the web, the searcher, the play button, etc and you use the right http methods you could get something equivalent to the selenium bot, but isn´t that easy to detect?
+it is easier to detect and way harder to get done, but wayyyyy more efficient than browser.
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: HappyYellow
+Topic: yuricolngluTR said:
+i dont advice to work with spotify
+its very hard now
+@yuricolngluTR Then which platform u suggest ?
+nd Profitable this days!!
+Liked by: No user likes
+Number of likes: 0
+-----
+
+Replies:
+
+

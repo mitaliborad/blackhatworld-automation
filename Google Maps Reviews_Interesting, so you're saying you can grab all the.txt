@@ -1,0 +1,1 @@
+Interesting, so you're saying you can grab all the public reviews? Are you using an API or is it more of a scraping thing?

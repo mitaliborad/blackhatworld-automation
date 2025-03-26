@@ -1,0 +1,13 @@
+2025-03-26 12:37:29,198 - INFO - Automation has reached the time limit. Stopping execution.
+2025-03-26 12:37:29,198 - INFO - Stopping browser for profile: ZeroDayHunter...
+2025-03-26 12:37:29,199 - INFO - Refreshing token before stopping profile...
+2025-03-26 12:37:29,199 - INFO - Refreshing token for ZeroDayHunter...
+2025-03-26 12:37:30,427 - INFO - Received expires_in from MultiLogin: 7200
+2025-03-26 12:37:30,428 - INFO - Calculated token expiration time: 1742980050.4282644
+2025-03-26 12:37:30,428 - INFO - Profile ZeroDayHunter: Successfully logged in.
+2025-03-26 12:37:30,429 - INFO - Token refreshed successfully before stopping.
+2025-03-26 12:37:30,429 - INFO - Profile ZeroDayHunter: Attempting to stop (Attempt 1/3)...
+2025-03-26 12:37:30,432 - INFO - Profile ZeroDayHunter: Browser closed successfully in 0.00 seconds.
+2025-03-26 12:37:33,503 - INFO - Profile ZeroDayHunter: API call took 3.07 seconds.
+2025-03-26 12:37:33,505 - INFO - Profile ZeroDayHunter: Stopped successfully.
+2025-03-26 12:37:33,509 - INFO - Browser stopped successfully for profile: ZeroDayHunter.

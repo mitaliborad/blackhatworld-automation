@@ -1,0 +1,82 @@
+--- Main Post Title ---
+Generating Pop Up Calls by Cloaking my popup script
+
+Total comments in the thread: 4
+
+Topic User: avc975
+Topic: Hi,
+
+So I have been doing this for a very long time now, I generate calls using various networks by cloaking my pop up script.
+Users usually see my pop up script and they call the number for enquiry.
+I have been dealing with companies and individuals directly and I sell calls to them without any automation.
+Some of my top geos where I generate calls are France, Spain, U.K., Netherlands and Belgium.
+
+But now I want to automate the process as I get a lot of enquiries where people ask me for small quantity of calls,
+which is not possible for me to do without automation.
+
+I thought of making a deal with pay per call networks but they tend to have unsatisfying benchmarks. Looks like they want to have the bigger part of the pie
+
+So my request to all the experts here is to provide their valuable insights on how this could be done with automation.
+
+Any ideas are more than welcome.
+
+Thanks.
+Liked by: You, bartosimpsonio
+Number of likes: 2
+-----
+
+Replies:
+
+
+Topic User: Artistic1
+Topic: are you generating Tech Support Pop Up Calls ?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: bartosimpsonio
+Topic: avc975 said:
+Hi,
+
+So I have been doing this for a very long time now, I generate calls using various networks by cloaking my pop up script.
+Users usually see my pop up script and they call the number for enquiry.
+I have been dealing with companies and individuals directly and I sell calls to them without any automation.
+Some of my top geos where I generate calls are France, Spain, U.K., Netherlands and Belgium.
+
+But now I want to automate the process as I get a lot of enquiries where people ask me for small quantity of calls,
+which is not possible for me to do without automation.
+
+I thought of making a deal with pay per call networks but they tend to have unsatisfying benchmarks. Looks like they want to have the bigger part of the pie
+
+So my request to all the experts here is to provide their valuable insights on how this could be done with automation.
+
+Any ideas are more than welcome.
+
+Thanks.
+Click to expand...
+This is an interesting use case in more than one aspect. First your cloaking of popups is not something we usually see. The main page is always cloaked, not the components, so this is an interesting setup, you even gave me some ideas.
+
+Secondly, why don't you substitute calls for whatsapp business contacts? These days I like to solve everything by whatsapp it's a lot easier and simpler than calling. Just an idea.
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+
+Topic User: itsjinx
+Topic: bartosimpsonio said:
+This is an interesting use case in more than one aspect. First your cloaking of popups is not something we usually see. The main page is always cloaked, not the components, so this is an interesting setup, you even gave me some ideas.
+
+Secondly, why don't you substitute calls for whatsapp business contacts? These days I like to solve everything by whatsapp it's a lot easier and simpler than calling. Just an idea.
+How is cloaking a pop up any different? It’s not. Just simply outputting the JavaScript pop up code if the click/user passes the cloak. Unless I am missing something?
+Liked by: 
+Number of likes: 0
+-----
+
+Replies:
+
+

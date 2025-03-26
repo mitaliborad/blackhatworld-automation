@@ -1,0 +1,1 @@
+Honestly, finding a perfect free setup is tough, but look into using the free version of the GeoDirectory plugin with a compatible theme; it's pretty robust to start, and then maybe add a page builder like Elementor if you need extra customization.

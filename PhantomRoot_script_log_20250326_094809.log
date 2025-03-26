@@ -1,0 +1,130 @@
+2025-03-26 09:48:09,639 - INFO - Current time: 1742962689.6399724
+2025-03-26 09:48:09,640 - INFO - Token expiration time: 1742969880.2602823
+2025-03-26 09:48:09,640 - INFO - Token expiration time: 1742969880.2602823
+2025-03-26 09:48:09,641 - INFO - performing random action
+2025-03-26 09:48:09,641 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:48:09,642 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:48:09,642 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:31,629 - DEBUG - Page scrolled.
+2025-03-26 09:48:33,631 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:35,319 - DEBUG - Page scrolled.
+2025-03-26 09:48:37,322 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:38,872 - DEBUG - Page scrolled.
+2025-03-26 09:48:40,874 - DEBUG - Random scrolls complete.
+2025-03-26 09:48:40,876 - DEBUG - Scrolling page 5 times.
+2025-03-26 09:48:40,878 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:42,174 - DEBUG - Page scrolled.
+2025-03-26 09:48:44,176 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:45,709 - DEBUG - Page scrolled.
+2025-03-26 09:48:47,710 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:48,923 - DEBUG - Page scrolled.
+2025-03-26 09:48:50,925 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:52,242 - DEBUG - Page scrolled.
+2025-03-26 09:48:54,244 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:48:55,688 - DEBUG - Page scrolled.
+2025-03-26 09:48:57,690 - DEBUG - Random scrolls complete.
+2025-03-26 09:49:02,040 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/link-building.108/
+2025-03-26 09:49:06,658 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/how-to-build-an-seo-strategy-that-survives-algorithm-updates.1699113/unread
+2025-03-26 09:49:06,659 - INFO - performing random action
+2025-03-26 09:49:15,950 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/how-to-build-an-seo-strategy-that-survives-algorithm-updates.1699113/unread
+2025-03-26 09:49:15,954 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/how-to-build-an-seo-strategy-that-survives-algorithm-updates.1699113/unread' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:49:16,009 - INFO - Extracted thread title: How to Build an SEO Strategy That Survives Algorithm Updates
+2025-03-26 09:49:16,010 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:49:16,010 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:18,014 - DEBUG - Page scrolled.
+2025-03-26 09:49:20,014 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:21,230 - DEBUG - Page scrolled.
+2025-03-26 09:49:23,231 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:24,934 - DEBUG - Page scrolled.
+2025-03-26 09:49:26,937 - DEBUG - Random scrolls complete.
+2025-03-26 09:49:29,201 - DEBUG - Scrolling page 2 times.
+2025-03-26 09:49:29,203 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:30,503 - DEBUG - Page scrolled.
+2025-03-26 09:49:33,506 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:34,623 - DEBUG - Page scrolled.
+2025-03-26 09:49:37,625 - DEBUG - Random scrolls complete.
+2025-03-26 09:49:37,638 - DEBUG - Found 3 like buttons.
+2025-03-26 09:49:40,639 - INFO - Attempting to like 1 posts. There are 3 available.
+2025-03-26 09:49:41,631 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:49:41,653 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:49:41,654 - DEBUG - Liked post number 1 of 1.
+2025-03-26 09:49:46,199 - INFO - Liked 1 posts successfully.
+2025-03-26 09:49:46,200 - INFO - Liked 1 posts successfully.
+2025-03-26 09:49:48,661 - INFO - performing random action
+2025-03-26 09:49:48,664 - DEBUG - Scrolling page 7 times.
+2025-03-26 09:49:48,666 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:50,325 - DEBUG - Page scrolled.
+2025-03-26 09:49:53,328 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:54,904 - DEBUG - Page scrolled.
+2025-03-26 09:49:57,905 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:49:59,458 - DEBUG - Page scrolled.
+2025-03-26 09:50:02,459 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:50:04,054 - DEBUG - Page scrolled.
+2025-03-26 09:50:07,056 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:50:08,719 - DEBUG - Page scrolled.
+2025-03-26 09:50:11,722 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:50:13,045 - DEBUG - Page scrolled.
+2025-03-26 09:50:16,047 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:50:17,193 - DEBUG - Page scrolled.
+2025-03-26 09:50:20,194 - DEBUG - Random scrolls complete.
+2025-03-26 09:50:22,714 - DEBUG - Total comments in the thread: 3
+2025-03-26 09:50:33,076 - INFO - Post content extracted and saved to Thread-Details/Thread Content\How to Build an SEO Strategy That Survives Algorithm Updates.txt
+2025-03-26 09:50:35,673 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:50:35,779 - DEBUG - Extracted main post content: Most people think SEO is just content, keywords, and backlinks. But it’s much more than that.
+
+Quality content + Freshness
+
+Keyword intent & Variations
+
+Core Web Vitals & E-E-A-T
+
+Semantic relevance & Internal links
+
+Mobile-first & Voice search
+
+Data-driven insights & Adapting to algorithms
+
+Authority signals & Brand mentions
+
+Video optimization & Structured data
+
+
+For links, it’s not just about getting backlinks. A few things that actually work in today’s SEO:
+
+Niche-Relevant Guest Posts: Not just "any" backlink, but one from a site in your industry.
+
+Contextual Links: Links placed naturally inside content always perform better than sidebar/footer links.
+
+Diversification: Guest posts, niche edits, HARO links, PR links. It’s all about balance.
+
+Brand Mentions & Authority: Google tracks mentions even if they aren’t linked. Think PR and social signals.
+
+Anchor Text Optimization: Overdoing exact match anchors is still a fast track to trouble.
+
+SEO isn’t a one-time fix. Stay consistent, keep testing, and keep building. That’s how rankings last.
+2025-03-26 09:50:40,636 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:50:40,639 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:50:42,749 - INFO - Profile PhantomRoot: Restoring window...
+2025-03-26 09:50:44,919 - INFO - performing random action
+2025-03-26 09:50:44,922 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:44,924 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:44,977 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:45,034 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:50:45,042 - DEBUG - Text box scrolled into view
+2025-03-26 09:50:45,553 - DEBUG - Initializing actionchains
+2025-03-26 09:50:45,590 - DEBUG - Post reply Element location: {'x': 1231, 'y': 2723}, size: {'height': 21, 'width': 68}
+2025-03-26 09:50:45,591 - DEBUG - Target click coordinates: (1265, 2733)
+2025-03-26 09:50:54,838 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-26 09:50:54,841 - DEBUG - Moving mouse to text box element.
+2025-03-26 09:50:54,843 - DEBUG - Clicking on the text box.
+2025-03-26 09:50:54,847 - DEBUG - Sending keys with content: Good points! I'd add focusing on user experience; all the keywords in the world won't matter if your site's a pain to use.
+
+2025-03-26 09:51:00,599 - DEBUG - Clicking on post reply button.
+2025-03-26 09:51:11,513 - DEBUG - Performed Actionchains
+2025-03-26 09:51:11,514 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-26 09:51:15,515 - INFO - Comment posted successfully.
+2025-03-26 09:51:15,516 - INFO - Task Completed!!
+2025-03-26 09:51:19,675 - INFO - Navigated back to the homepage.
+2025-03-26 09:51:22,325 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:51:22,354 - INFO - Garbage collection completed.
+2025-03-26 09:51:22,355 - INFO - Waiting for 3000 seconds before next execution.

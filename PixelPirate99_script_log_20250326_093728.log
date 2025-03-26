@@ -1,0 +1,130 @@
+2025-03-26 09:37:28,959 - INFO - Current time: 1742962048.9593425
+2025-03-26 09:37:28,960 - INFO - Token expiration time: 1742969237.4328904
+2025-03-26 09:37:28,961 - INFO - Token expiration time: 1742969237.4328904
+2025-03-26 09:37:28,961 - INFO - Profile PixelPirate99: Minimizing window...
+2025-03-26 09:37:28,963 - INFO - Profile PixelPirate99: Window minimized. Pausing for 25.28 seconds...
+2025-03-26 09:37:54,247 - INFO - Profile PixelPirate99: Resuming after minimize...
+2025-03-26 09:37:54,250 - INFO - performing random action
+2025-03-26 09:37:54,254 - INFO - Loaded 38 subforum URLs from Sub-Forum-List.txt
+2025-03-26 09:37:54,257 - DEBUG - Scrolling page 4 times.
+2025-03-26 09:37:54,260 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:37:55,908 - DEBUG - Page scrolled.
+2025-03-26 09:37:57,910 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:37:59,284 - DEBUG - Page scrolled.
+2025-03-26 09:38:01,286 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:38:02,945 - DEBUG - Page scrolled.
+2025-03-26 09:38:04,947 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:38:06,635 - DEBUG - Page scrolled.
+2025-03-26 09:38:08,638 - DEBUG - Random scrolls complete.
+2025-03-26 09:38:08,639 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:38:08,640 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:38:10,235 - DEBUG - Page scrolled.
+2025-03-26 09:38:12,237 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:38:13,794 - DEBUG - Page scrolled.
+2025-03-26 09:38:15,797 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:38:17,017 - DEBUG - Page scrolled.
+2025-03-26 09:38:19,020 - DEBUG - Random scrolls complete.
+2025-03-26 09:38:24,921 - INFO - Navigated to subforum: https://www.blackhatworld.com/forums/general-social-chat.32/
+2025-03-26 09:38:28,730 - INFO - Selected random thread link: https://www.blackhatworld.com/seo/do-you-know-if-theres-a-way-of-exporting-every-chat-on-whatsapp.1698753/unread
+2025-03-26 09:38:28,730 - INFO - performing random action
+2025-03-26 09:39:15,490 - INFO - Navigated to random thread: https://www.blackhatworld.com/seo/do-you-know-if-theres-a-way-of-exporting-every-chat-on-whatsapp.1698753/unread
+2025-03-26 09:39:15,494 - INFO - Saved thread URL 'https://www.blackhatworld.com/seo/do-you-know-if-theres-a-way-of-exporting-every-chat-on-whatsapp.1698753/unread' to visited threads file 'Thread_links.txt'.
+2025-03-26 09:39:15,535 - INFO - Extracted thread title: Do you know if there's a way of exporting every chat on whatsapp
+2025-03-26 09:39:15,536 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:39:15,536 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:39:17,200 - DEBUG - Page scrolled.
+2025-03-26 09:39:19,201 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:39:20,806 - DEBUG - Page scrolled.
+2025-03-26 09:39:22,808 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:39:24,653 - DEBUG - Page scrolled.
+2025-03-26 09:39:26,656 - DEBUG - Random scrolls complete.
+2025-03-26 09:39:29,434 - DEBUG - Scrolling page 2 times.
+2025-03-26 09:39:29,435 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:39:31,329 - DEBUG - Page scrolled.
+2025-03-26 09:39:34,332 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:39:35,662 - DEBUG - Page scrolled.
+2025-03-26 09:39:38,665 - DEBUG - Random scrolls complete.
+2025-03-26 09:39:38,697 - DEBUG - Found 1 like buttons.
+2025-03-26 09:39:41,699 - INFO - Attempting to like 1 posts. There are 1 available.
+2025-03-26 09:39:42,250 - DEBUG - Scrolling like button into view and attempting to click using JavaScript.
+2025-03-26 09:39:42,262 - INFO - Like button clicked successfully using JavaScript.
+2025-03-26 09:39:42,263 - DEBUG - Liked post number 1 of 1.
+2025-03-26 09:39:46,551 - INFO - Liked 1 posts successfully.
+2025-03-26 09:39:46,552 - INFO - Liked 1 posts successfully.
+2025-03-26 09:39:49,543 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-26 09:39:55,175 - INFO - Profile PixelPirate99: Pausing for 38.80 seconds...
+2025-03-26 09:40:33,980 - INFO - Profile PixelPirate99: Resuming...
+2025-03-26 09:40:33,999 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-26 09:40:34,001 - INFO - performing random action
+2025-03-26 09:40:34,002 - DEBUG - Scrolling page 3 times.
+2025-03-26 09:40:34,003 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:35,031 - DEBUG - Page scrolled.
+2025-03-26 09:40:38,034 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:39,285 - DEBUG - Page scrolled.
+2025-03-26 09:40:42,289 - DEBUG - Scrolling page by 500 pixels.
+2025-03-26 09:40:43,716 - DEBUG - Page scrolled.
+2025-03-26 09:40:46,719 - DEBUG - Random scrolls complete.
+2025-03-26 09:40:49,256 - DEBUG - Total comments in the thread: 1
+2025-03-26 09:40:49,360 - INFO - Post content extracted and saved to Thread-Details/Thread Content\Do you know if there's a way of exporting every chat on whatsapp.txt
+2025-03-26 09:40:51,638 - DEBUG - Attempting to locate main post element with locator: ('xpath', '//div[@data-lb-id and contains(@data-lb-id, "post-")]')
+2025-03-26 09:40:51,680 - DEBUG - Extracted main post content: Hey BHW fam,
+
+
+I've been trying to figure out the most efficient way to export ALL my WhatsApp chats at once into ZIP files. I know how to do individual chats, but I have hundreds of conversations I need to archive for a project.
+
+
+What I know so far:
+
+For exporting single chats into ZIP:
+
+
+Open the individual chat
+Tap the contact/group name at the top
+Scroll down and select "Export chat"
+Choose "Include media" if needed
+Select an export method (email, drive, etc.)
+This creates a ZIP file with the chat transcript and media (if selected)
+
+But doing this hundreds of times manually would be incredibly tedious.
+
+
+What I'm looking for:
+
+Any hidden WhatsApp features that allow bulk export
+Third-party tools that can do this safely
+Potential API methods (I've looked into WhatsApp Business API but not sure if it works for my needs)
+Scripts or automation methods that could help
+
+I'm comfortable with technical solutions and willing to try different approaches. Has anyone here successfully exported their entire WhatsApp history into organized ZIP files? Any insights would be greatly appreciated!
+
+
+Thanks in advance!
+2025-03-26 09:40:57,266 - INFO - Successfully generated comments using Gemini API.
+2025-03-26 09:40:57,269 - INFO - Comment saved to 'Thread-Details/API Comments\temp_comment.txt'.
+2025-03-26 09:40:59,739 - INFO - Profile PixelPirate99: Opening default URL: https://www.google.com
+2025-03-26 09:41:06,142 - INFO - Profile PixelPirate99: Pausing for 38.27 seconds...
+2025-03-26 09:41:44,413 - INFO - Profile PixelPirate99: Resuming...
+2025-03-26 09:41:44,446 - INFO - Profile PixelPirate99: Switched back to original tab.
+2025-03-26 09:41:44,454 - INFO - performing random action
+2025-03-26 09:41:44,456 - DEBUG - Searching for text box with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:41:44,457 - DEBUG - Attempting to find element with locator: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:41:44,476 - INFO - Element found after 1 scrolls: ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:41:44,526 - DEBUG - Text box is clickable using element_to_be_clickable with locator : ('xpath', "//span[contains(text(), 'Write your reply...')]")
+2025-03-26 09:41:44,533 - DEBUG - Text box scrolled into view
+2025-03-26 09:41:45,114 - DEBUG - Initializing actionchains
+2025-03-26 09:41:45,172 - DEBUG - Post reply Element location: {'x': 1231, 'y': 1837}, size: {'height': 21, 'width': 68}
+2025-03-26 09:41:45,173 - DEBUG - Target click coordinates: (1265, 1847)
+2025-03-26 09:41:52,786 - DEBUG - Moved mouse to target location using bezier curve.
+2025-03-26 09:41:52,788 - DEBUG - Moving mouse to text box element.
+2025-03-26 09:41:52,790 - DEBUG - Clicking on the text box.
+2025-03-26 09:41:52,793 - DEBUG - Sending keys with content: Forget the built-in features; they're a dead end for bulk stuff. Check out some phone backup tools – many of them let you extract WhatsApp data in bulk, and you can then script the zipping.
+
+2025-03-26 09:41:57,935 - DEBUG - Clicking on post reply button.
+2025-03-26 09:41:59,196 - DEBUG - Performed Actionchains
+2025-03-26 09:41:59,197 - INFO - Successfully wrote into text box using ActionChains and click.
+2025-03-26 09:42:03,199 - INFO - Comment posted successfully.
+2025-03-26 09:42:03,201 - INFO - Task Completed!!
+2025-03-26 09:42:06,373 - INFO - Navigated back to the homepage.
+2025-03-26 09:42:09,253 - INFO - Attempting to clear memory and resources.
+2025-03-26 09:42:09,298 - INFO - Garbage collection completed.
+2025-03-26 09:42:09,299 - INFO - Waiting for 3000 seconds before next execution.
